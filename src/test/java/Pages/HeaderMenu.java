@@ -1,2 +1,5 @@
-package Pages;public class HeaderMenu {
+package Pages;
+
+public class HeaderMenu {
+
 }
